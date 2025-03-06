@@ -60,7 +60,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ImTheSpeed/ImTheSpeed/output/snake.svg" alt="Snake animation" />
 
 ###
 
