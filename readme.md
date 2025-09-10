@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Glad you landed here!  Hi, I’m Speed, Security Researcher and Backend Developer,<br>building, breaking, and exploring the digital world. ✨</h2>
+<h2 align="center">Glad you landed here!  Hi, I’m Speed, a Security Researcher, Pentetration Tester, and Developer,<br>building, breaking, and exploring the digital world. ✨</h2>
 
 ###
 
